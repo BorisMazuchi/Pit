@@ -1,0 +1,162 @@
+* {
+    box-sizing: border-box;
+}
+
+/* Barras verticais */
+::-webkit-scrollbar {
+    width: 10px;
+    opacity: 0;
+    transition: opacity 0.2s;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #8A2BE2;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #8A2BE2;
+    opacity: 1;
+}
+
+/* Barras horizontais (corrige o nome do pseudo-elemento) */
+::-webkit-scrollbar {
+    height: 10px;
+}
+
+::-webkit-scrollbar-horizontal-track {
+    background: #f1f1f1;
+}
+
+::-webkit-scrollbar-horizontal-thumb {
+    background: #8A2BE2;
+}
+
+body {
+    background-color: #fff9ed;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+header {
+    background-color: #8A2BE2;
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.user {
+    margin-right: 20vw;
+}
+
+.logo img {
+    width: 10%;
+    height: auto;
+}
+
+.our p {
+    margin: 0;
+    padding: 10px;
+    color: #8A2BE2;
+}
+
+.our a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.our a:hover {
+    text-decoration: underline;
+}
+
+.reclamacao-section {
+    background-color: #f8f5f2;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    width: 90%;
+    max-width: 1000px;
+    margin-top: 20px;
+}
+
+@media (max-width: 768px) {
+    header {
+        flex-direction: column;
+    }
+
+    .logo img {
+        width: 50%;
+    }
+
+    .our {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+/* Estilos da tabela */
+.table-container {
+    overflow-x: auto;
+    margin-top: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    box-shadow: 0 0 20px rgba(0,0,0,0.15);
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+}
+
+th, td {
+    padding: 10px 15px;
+    text-align: center;
+}
+
+th {
+    background-color: #f2f2f2;
+    color: #333;
+}
+
+tbody tr:nth-of-type(odd) {
+    background-color: #f5f5f5;
+}
+
+tbody tr:hover {
+    background-color: #f0dbdb;
+}
+
+@media (max-width: 768px) {
+    header {
+        flex-direction: column;
+        justify-content: center;  /* Centraliza horizontalmente */
+        padding: 10px 20px;
+    }
+
+    .logo img {
+        width: 20%;
+    }
+
+    .user {
+        margin: 0;  /* Remove todas as margens */
+    }
+
+    .our {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: 0;  /* Remove todas as margens */
+    }
+}

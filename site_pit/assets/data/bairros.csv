@@ -1,0 +1,502 @@
+id,nome
+1,Buritis
+2,"Padre Eustáquio"
+3,Lindéia
+4,"Santa Mônica"
+5,"Céu Azul"
+6,"Santa Cruz (ZN)"
+7,"Santa Cruz (ZL)"
+8,"Santo Antônio"
+9,"Alto Vera Cruz"
+10,"Jardim dos Comerciários"
+11,Piratininga
+12,Mantiqueira
+13,Serra
+14,Sion
+15,Lourdes
+16,"Santa Amélia"
+17,"Cabana do Pai Tomás"
+18,"Santa Efigênia (ZL)"
+19,"Santa Efigênia (HC)"
+20,Pindorama
+21,"Boa Vista"
+22,Gutierrez
+23,"Ouro Preto"
+24,Castelo
+25,Planalto
+26,"São João Batista"
+27,Centro
+28,Goiânia
+29,Jaqueline
+30,"Ribeiro de Abreu"
+31,"Santa Terezinha"
+32,"Santa Tereza"
+33,"Jardim Felicidade"
+34,"Cidade Nova"
+35,"Carlos Prates (ZO)"
+36,"Carlos Prates (HC)"
+37,Havaí
+38,"Nova Suissa"
+39,"Conjunto Taquaril"
+40,União
+41,"Salgado Filho"
+42,Araguaia
+43,Glória
+44,"Serra Verde"
+45,"São Geraldo"
+46,Prado
+47,"São Gabriel"
+48,"Tupi B"
+49,Paraíso
+50,Copacabana
+51,Caiçaras
+52,Camargos
+53,"Rio Branco"
+54,Anchieta
+55,Ipiranga
+56,Milionários
+57,Betânia
+58,Diamante
+59,"Floresta (HC)"
+60,"Floresta (ZL)"
+61,Savassi
+62,"Jardim Guanabara"
+63,"Vila Vista Alegre"
+64,Tirol
+65,"Jardim América (ZO)"
+66,"Jardim América (ZS)"
+67,Caiçara-Adelaide
+68,Concórdia
+69,"Tupi A"
+70,Minascaixa
+71,Cardoso
+72,"Colégio Batista (ZL)"
+73,"Colégio Batista (HC)"
+74,Barreiro
+75,Europa
+76,Serrano
+77,"Jardim Alvorada (ZO)"
+78,"Jardim Alvorada (ZN)"
+79,"Santo Agostinho"
+80,Aparecida
+81,Floramar
+82,"Dom Bosco"
+83,"João Pinheiro"
+84,"Nossa Senhora de Fátima"
+85,"Jardim Vitória"
+86,"Alípio de Melo"
+87,"Nova Gameleira"
+88,Itapoã
+89,"Jardim Leblon"
+90,Cachoeirinha
+91,"Bairro das Indústrias I"
+92,"Santa Inês"
+93,Lagoa
+94,"São Bernardo"
+95,Renascença
+96,"Dona Clara"
+97,Funcionários
+98,Belvedere
+99,"Maria Goretti"
+100,"Nova Vista"
+101,Independência
+102,"Novo Aarão Reis"
+103,Manacás
+104,"Vila Pinho"
+105,Esplanada
+106,Nazaré
+107,Cruzeiro
+108,"Vale do Jatobá"
+109,"Vila Barragem Santa Lúcia"
+110,Providência
+111,"Flávio Marques Lisboa"
+112,"Novo Glória"
+113,Guarani
+114,Letícia
+115,"Maria Helena"
+116,Coqueiros
+117,"Coração Eucarístico"
+118,"Palmeiras (ZS)"
+119,"Palmeiras (ZO)"
+120,Itaipu
+121,Candelária
+122,Calafate
+123,"São Tomáz"
+124,"Alto Caiçaras"
+125,"Santo André"
+126,"Santa Lúcia"
+127,"Vila Clóris"
+128,"Santa Maria"
+129,Ventosa
+130,"Brasil Industrial"
+131,"Jardim São José"
+132,"São Marcos"
+133,"Santa Rosa"
+134,Heliópolis
+135,Apolônia
+136,Marçola
+137,Minaslândia
+138,"Bonsucesso (ZS)"
+139,"Bonsucesso (ZO)"
+140,Paquetá
+141,Luxemburgo
+142,"Casa Branca"
+143,"São Pedro"
+144,Grajaú
+145,"Nossa Senhora da Conceição"
+146,"Paulo VI"
+147,"Barro Preto"
+148,"Teixeira Dias"
+149,Miramar
+150,"Santa Rita de Cássia"
+151,Califórnia
+152,"Nova Granada (ZS)"
+153,"Nova Granada (ZO)"
+154,"Lagoinha Leblon"
+155,"Horto Florestal"
+156,"Jardim Montanhês"
+157,Juliana
+158,"São Salvador"
+159,"Coração de Jesus"
+160,Silveira
+161,Olaria
+162,Pompéia
+163,"Vila Cemig"
+164,"Nova Cintra"
+165,Castanheira
+166,"Palmares (ZL)"
+167,"Palmares (ZN)"
+168,Cinquentenário
+169,Bandeirantes
+170,"Santa Helena"
+171,"Santa Branca"
+172,"Vila Maria"
+173,"Alto Barroca"
+174,"Vista Alegre"
+175,"Vista do Sol"
+176,"Aparecida Sétima Seção"
+177,Saudade
+178,Lajedo
+179,Graça
+180,"São Luíz"
+181,"Estrela do Oriente"
+182,"Nova Cachoeirinha"
+183,Ipê
+184,Urca
+185,"Bairro Novo das Indústrias"
+186,"Boa Viagem"
+187,Estoril
+188,"Nova Floresta"
+189,"Monsenhor Messias"
+190,Liberdade
+191,"Madre Gertrudes"
+192,"Pedreira Prado Lopes"
+193,"Bonfim (ZN)"
+194,"Bonfim (HC)"
+195,"Nova Esperança"
+196,"Conjunto Minascaixa"
+197,"São Francisco"
+198,"Solar do Barreiro"
+199,"Nossa Senhora da Aparecida"
+200,Trevo
+201,Confisco
+202,"Dom Cabral"
+203,Mineirão
+204,"Dom Silvério"
+205,"Fernão Dias"
+206,"Ouro Minas"
+207,Beira-Linha
+208,"Santana do Cafezal"
+209,Jaraguá
+210,"Vila Primeiro de Maio"
+211,Eymard
+212,"Novo São Lucas"
+213,"Lagoinha (ZN)"
+214,"Lagoinha (HC)"
+215,"Vera Cruz"
+216,"Maria Virgínia (ZL)"
+217,"Maria Virgínia (ZN)"
+218,Carmo
+219,Oeste
+220,"São Paulo"
+221,"Conjunto Jatobá"
+222,Fazendinha
+223,"São Bento"
+224,"Vila Novo São Lucas"
+225,Leonina
+226,"Bom Jesus"
+227,"Granja de Freitas"
+228,"Vila Paris"
+229,"Mariano de Abreu"
+230,"Minas Brasil"
+231,"Monte Azul"
+232,Mangueiras
+233,Inconfidência
+234,Ermelinda
+235,Jatobá
+236,Vitória
+237,Horto
+238,Taquaril
+239,"Conjunto Califórnia I"
+240,Indaiá
+241,Barroca
+242,"Dom Joaquim"
+243,Pirajá
+244,"Conjunto Paulo VI"
+245,"Alto dos Pinheiros"
+246,"Parque São José"
+247,"Vila Califórnia"
+248,"Novo Tupi"
+249,"Vila Independência I"
+250,"Conjunto Jardim Filadélfia"
+251,"São Lucas"
+252,"Vila Sumaré"
+253,"São Cristóvão"
+254,"Aarão Reis"
+255,Pilar
+256,"Santa Cecília"
+257,Marajó
+258,"Flávio de Oliveira"
+259,"São Jorge III"
+260,"Senhor dos Passos"
+261,Universo
+262,"Santa Rita"
+263,"Santa Sofia"
+264,"Conjunto Capitão Eduardo"
+265,"Campo Alegre"
+266,"Vila Jardim Alvorada"
+267,"São Jorge II"
+268,"Conjunto Celso Machado"
+269,"Venda Nova"
+270,Pongelupe
+271,"Zilah Spósito"
+272,Canaã
+273,"São Gonçalo"
+274,"Jonas Veiga"
+275,Acaiaca
+276,"Vila São João Batista"
+277,"Primeiro de Maio"
+278,"Novo Santa Cecília"
+279,"Etelvina Carneiro"
+280,"Parque São Pedro"
+281,"Santa Margarida"
+282,Cenáculo
+283,"Vila Nova Cachoeirinha I"
+284,Belmonte
+285,Penha
+286,Alpes
+287,Petrópolis
+288,Mariquinhas
+289,Esperança
+290,"Ernesto do Nascimento"
+291,"Vila Santa Mônica"
+292,"Vila Aeroporto"
+293,"Granja Werneck (ZN)"
+294,"Granja Werneck (ZL)"
+295,Braúnas
+296,"Águas Claras"
+297,"Alta Tensão I"
+298,"Frei Leopoldo"
+299,Universitário
+300,Suzana
+301,Mangabeiras
+302,"Vila Madre Gertrudes I"
+303,"Vila Mangueiras"
+304,"Barão Homem de Melo I"
+305,"Vila São Paulo"
+306,"Túnel de Ibirité"
+307,Imbaúbas
+308,"Ademar Maldonado"
+309,Itatiaia
+310,"João Paulo II"
+311,Comiteco
+312,"Conjunto Califórnia II"
+313,Jardinópolis
+314,"São Jorge I"
+315,"Vila Ecológica"
+316,"Vila Jardim São José"
+317,"Vila Piratininga"
+318,"São João"
+319,Biquinhas
+320,Tiradentes
+321,"Pousada Santo Antônio"
+322,"Vila Nossa Senhora Aparecida"
+323,"Vila Antena"
+324,"São Benedito"
+325,Estrela
+326,"Vila Átila de Paiva"
+327,"Olhos d'Água"
+328,"Vila Coqueiral"
+329,"Cidade Jardim"
+330,"Vila Trinta e Um de Março"
+331,"São José"
+332,Solimões
+333,Bernadete
+334,Xodó-Marize
+335,"Vila da Luz"
+336,"Jardim Atlântico"
+337,"Vila Formosa"
+338,"Vila Nova Gameleira II"
+339,"Vila Santa Rosa"
+340,"Engenho Nogueira"
+341,"Vila Copacabana"
+342,"São Francisco das Chagas"
+343,"Vila Oeste"
+344,Aeroporto
+345,"Beija Flor"
+346,"Capitão Eduardo"
+347,"Marieta I"
+348,"Átila de Paiva"
+349,"Vila São Rafael"
+350,"Vitória da Conquista"
+351,"Acaba Mundo"
+352,"Conjunto Santa Maria"
+353,"Jardim do Vale"
+354,"Monte São José"
+355,"Álvaro Camargos"
+356,"Sport Club"
+357,"Bairro das Indústrias II"
+358,"Conjunto Bonsucesso"
+359,"Vila Dias"
+360,"Vila Esplanada"
+361,"Vila Independência II"
+362,"Vila de Sá"
+363,Garças
+364,"Vila Boa Vista"
+365,Delta
+366,Corumbiara
+367,Madri
+368,Pantanal
+369,"Conjunto Floramar"
+370,"Vila Pilar"
+371,"Vila Olhos d'Água"
+372,Marilândia
+373,Virgínia
+374,"Vila Minaslândia"
+375,"Vila Nova Gameleira I"
+376,"Vila dos Anjos"
+377,Ambrosina
+378,Andiroba
+379,Marmiteiros
+380,Guaratã
+381,"Vila União"
+382,"Vila Mantiqueira"
+383,"Conjunto Novo Dom Bosco"
+384,"Vila Nova Paraíso"
+385,"Vila Paquetá"
+386,"Vila Inestan"
+387,"Vila São Gabriel Jacuí"
+388,"Vila Nova Cachoeirinha IV"
+389,"Vila Real II"
+390,"Vila Nossa Senhora do Rosário"
+391,"Vila Santo Antônio Barroquinha"
+392,"Vila Madre Gertrudes II"
+393,"Bela Vitória"
+394,"Vila Maloca"
+395,"Conjunto Lagoa"
+396,"Vila Suzana I"
+397,"Distrito Industrial do Jatobá"
+398,Pirineus
+399,"Vila Aeroporto Jaraguá"
+400,"Vila Nova"
+401,"Vila Ouro Minas"
+402,"Três Marias"
+403,"Vila Nova dos Milionários"
+404,Mirante
+405,"Vila Bandeirantes"
+406,"Boa Esperança"
+407,"Vila da Paz"
+408,"Vila Calafate"
+409,"São Vicente"
+410,"Novo Ouro Preto"
+411,Canadá
+412,"Antônio Ribeiro de Abreu"
+413,Satélite
+414,"Vila Antena Montanhês"
+415,Grotinha
+416,"Cônego Pinheiro"
+417,"Chácara Leonina"
+418,"Vila Madre Gertrudes III"
+419,"Vila São Gabriel"
+420,"Vila Paraíso"
+421,Ápia
+422,"Vila da Amizade"
+423,"Alta Tensão"
+424,"João Alfredo"
+425,"Alto das Antenas"
+426,"Maria Teresa"
+427,"Caetano Furquim"
+428,"Vila Independência IV"
+429,Unidas
+430,"Vila Piratininga Venda Nova"
+431,"São Sebastião"
+432,"Nova Pampulha"
+433,"Vila Havaí"
+434,Mirtes
+435,"Serra do Curral"
+436,"Vila Sesc"
+437,"Morro dos Macacos"
+438,"Vila da Área"
+439,"Vila Santo Antônio"
+440,Flamengo
+441,Gameleira
+442,"Vila Copasa"
+443,"São Damião"
+444,Custodinha
+445,"Boa União I"
+446,"Conjunto São Francisco de Assis"
+447,"Vila Petrópolis"
+448,"Conjunto Providência"
+449,"Marieta II"
+450,"Vila Engenho Nogueira"
+451,"Vila Jardim Montanhês"
+452,"Vila das Oliveiras"
+453,"Conjunto Serra Verde"
+454,"Camponesa III"
+455,"Vila Jardim Leblon"
+456,"Vila Tirol"
+457,"Barão Homem de Melo III"
+458,"CDI Jatobá"
+459,"Vila Madre Gertrudes V"
+460,"Vila Rica"
+461,Grota
+462,"Vila Betânia"
+463,"Vila São Dimas"
+464,"Vila Batik"
+465,"Barão Homem de Melo IV"
+466,"Vila Ipiranga"
+467,"Vila São Geraldo"
+468,"Boa União II"
+469,"Cidade Jardim Taquaril"
+470,"Nossa Senhora do Rosário"
+471,"Vila Canto do Sabiá"
+472,Laranjeiras
+473,"Pindura Saia"
+474,"Vila Nova Cachoeirinha II"
+475,"Vila do Pombal"
+476,"Santa Isabel"
+477,"Vila Satélite"
+478,"Várzea da Palma"
+479,"Camponesa I"
+480,"Vila Real I"
+481,Bacurau
+482,"Nova América"
+483,"Vila Nova Gameleira III"
+484,Lorena
+485,"Vila Puc"
+486,"Vila Fumec"
+487,"Vila São Francisco"
+488,"Mala e Cuia"
+489,"Vila Suzana II"
+490,Maravilha
+491,"Cônego Pinheiro A"
+492,Baleia
+493,Xangri-lá
+494,Belém
+495,"Bispo de Maura"
+496,"Campus UFMG"
+497,Guanabara
+498,"Lagoa da Pampulha"
+499,Sumaré
+500,"Vila Vera Cruz I"
+501,"Vila Vera Cruz II"
